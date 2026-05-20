@@ -1,0 +1,24 @@
+{ 
+  "brands": [ 
+    { "id": 1, "name": "Nike" }, 
+    { "id": 2, "name": "Adidas" }, 
+    { "id": 3, "name": "New Balance" } 
+  ], 
+  
+  "products": [ 
+    { "id": "NK001", "brandId": 1, "productName": "Nike Air Force 1 '07", "graphicName": "", "costPrice": 85.0, "msrp": 129.99, "qtyOnHand": 25, "qtyOnBackOrder": 5, "description": "Classic all-white basketball inspired sneakers featuring durable leather construction and everyday comfort for casual wear." }, 
+    { "id": "NK002", "brandId": 1, "productName": "Nike Dunk Low Panda", "graphicName": "", "costPrice": 90.0, "msrp": 149.99, "qtyOnHand": 18, "qtyOnBackOrder": 6, "description": "Popular black and white low-top sneakers designed with premium materials and a timeless streetwear inspired look." }, 
+    { "id": "NK003", "brandId": 1, "productName": "Nike Air Max 270", "graphicName": "", "costPrice": 100.0, "msrp": 189.99, "qtyOnHand": 14, "qtyOnBackOrder": 4, "description": "Comfort focused running shoes featuring a large visible Air unit and lightweight breathable mesh upper design." }, 
+    { "id": "NK004", "brandId": 1, "productName": "Nike Blazer Mid '77", "graphicName": "", "costPrice": 80.0, "msrp": 139.99, "qtyOnHand": 20, "qtyOnBackOrder": 2, "description": "Vintage inspired high-top sneakers combining retro basketball style with modern comfort and suede detailing." }, 
+    { "id": "NK005", "brandId": 1, "productName": "Nike Zoom Vomero 5", "graphicName": "", "costPrice": 110.0, "msrp": 209.99, "qtyOnHand": 12, "qtyOnBackOrder": 5, "description": "Performance running sneakers with layered mesh panels, responsive cushioning, and early 2000s inspired styling." }, 
+    { "id": "AD001", "brandId": 2, "productName": "Adidas Samba OG", "graphicName": "", "costPrice": 75.0, "msrp": 134.99, "qtyOnHand": 30, "qtyOnBackOrder": 3, "description": "Iconic indoor soccer inspired sneakers featuring a leather upper, gum sole, and classic three stripe branding." }, 
+    { "id": "AD002", "brandId": 2, "productName": "Adidas Campus 00s", "graphicName": "", "costPrice": 70.0, "msrp": 124.99, "qtyOnHand": 22, "qtyOnBackOrder": 4, "description": "Skate and streetwear inspired sneakers with oversized proportions, soft suede materials, and padded comfort." }, 
+    { "id": "AD003", "brandId": 2, "productName": "Adidas Ultraboost Light", "graphicName": "", "costPrice": 120.0, "msrp": 249.99, "qtyOnHand": 10, "qtyOnBackOrder": 7, "description": "Premium running shoes built with responsive Boost cushioning and lightweight materials for all day comfort." }, 
+    { "id": "AD004", "brandId": 2, "productName": "Adidas Gazelle Indoor", "graphicName": "", "costPrice": 78.0, "msrp": 139.99, "qtyOnHand": 17, "qtyOnBackOrder": 2, "description": "Retro suede sneakers featuring translucent gum soles and a classic silhouette popular in casual fashion." }, 
+    { "id": "AD005", "brandId": 2, "productName": "Adidas NMD_R1", "graphicName": "", "costPrice": 95.0, "msrp": 199.99, "qtyOnHand": 13, "qtyOnBackOrder": 5, "description": "Modern lifestyle sneakers combining sock-like comfort, Boost cushioning, and sleek urban inspired styling." }, 
+    { "id": "NB001", "brandId": 3, "productName": "New Balance 550", "graphicName": "", "costPrice": 82.0, "msrp": 149.99, "qtyOnHand": 19, "qtyOnBackOrder": 4, "description": "Retro basketball sneakers featuring clean leather panels and a versatile design suitable for everyday outfits." }, 
+    { "id": "NB002", "brandId": 3, "productName": "New Balance 9060", "graphicName": "", "costPrice": 115.0, "msrp": 219.99, "qtyOnHand": 11, "qtyOnBackOrder": 6, "description": "Chunky lifestyle sneakers inspired by futuristic running designs and equipped with plush cushioning technology." }, 
+    { "id": "NB003", "brandId": 3, "productName": "New Balance 2002R", "graphicName": "", "costPrice": 100.0, "msrp": 189.99, "qtyOnHand": 15, "qtyOnBackOrder": 3, "description": "Comfortable retro runners combining premium suede overlays with supportive midsoles and breathable mesh." }, 
+    { "id": "NB004", "brandId": 3, "productName": "New Balance 574 Core", "graphicName": "", "costPrice": 68.0, "msrp": 119.99, "qtyOnHand": 28, "qtyOnBackOrder": 1, "description": "Classic everyday sneakers featuring a timeless silhouette, durable suede accents, and cushioned support." }, 
+    { "id": "NB005", "brandId": 3, "productName": "New Balance Fresh Foam X 1080v13", "graphicName": "", "costPrice": 125.0, "msrp": 239.99, "qtyOnHand": 9, "qtyOnBackOrder": 5, "description": "High performance running shoes designed with Fresh Foam cushioning and engineered mesh for maximum comfort." } ] 
+}
